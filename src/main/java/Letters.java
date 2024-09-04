@@ -7,7 +7,6 @@ public class Letters {
         System.out.println(name.indexOf(letter));
         System.out.println(letters.indexOf(name.substring(3,4)));
         System.out.println(letters.indexOf(letter));
-
         String str = "I am";
         str+=10+3;
         String age = "years old";
